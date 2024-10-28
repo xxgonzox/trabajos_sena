@@ -1,1 +1,0 @@
-print(somos lo mejor ajjaajaj)
